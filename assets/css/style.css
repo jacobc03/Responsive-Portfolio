@@ -238,6 +238,9 @@ input[type=submit] {
     .sidebar{
 		max-width: 100%;
 	}
+	.main-section {
+		max-width: 100%;
+	}
 }
 @media screen and (max-width: 640px){
 	#masthead {
