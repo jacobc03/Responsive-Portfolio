@@ -213,5 +213,23 @@ input[type=submit] {
 	padding: 10px 30px;
 	cursor: pointer;
 }
+@media screen and (max-width: 980px) {
+	
+}
+@media screen and (max-width: 768px) {
+   h1 {
+        color: blue;
+    }
+}
+
+}
+@media screen and (max-width: 640px){
+	header {
+		position: static;
+	}
+	.sidebar{
+		float: left;
+	}
+}
 Contact GitHub API Training Shop Blog About
 © 2016 GitHub, Inc. Terms Privacy Security Status Help
