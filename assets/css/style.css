@@ -222,6 +222,12 @@ input[type=submit] {
 		width: 100%;
 		height: 400px;
 	}
+	.work {
+		float: left;
+		clear: auto;
+		width: 100%;
+
+	}
 }
 @media screen and (max-width: 768px) and (min-width: 641px){
 
@@ -229,6 +235,9 @@ input[type=submit] {
     	clear: auto;
     	float: left;
     }
+    .sidebar{
+		max-width: 100%;
+	}
 }
 @media screen and (max-width: 640px){
 	#masthead {
@@ -262,6 +271,13 @@ input[type=submit] {
 		width: 100%;
 		float: left;
 	}
+	.work {
+		float: left;
+		clear: auto;
+		width: 100%;
+	}
+	.sidebar{
+		max-width: 100%;
+	}
 }
-Contact GitHub API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Status Help
+
