@@ -236,10 +236,15 @@ input[type=submit] {
     	float: left;
     }
     .sidebar{
-		max-width: 100%;
+		max-width: 90%;
+		margin: 30px;
 	}
 	.main-section {
-		max-width: 100%;
+		max-width: 90%;
+		margin:30px;
+	}
+	.work{
+		margin: 10px;
 	}
 }
 @media screen and (max-width: 640px){
